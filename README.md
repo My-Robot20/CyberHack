@@ -35,8 +35,11 @@ DATA: dataFile.dat
 Inside the file called dataFile.dat includes the following data.
 
 Daniel Craig 2896893463 1983
+
 Eliot Alderson 6478925678 1991
+
 Angela Moss 2267098900 1993
+
 Gideon Goddard 3452781113 1987
 
 ********************
