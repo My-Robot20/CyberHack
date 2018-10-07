@@ -32,7 +32,7 @@ This command will run the C program to display the hacks.
 ********************
 DATA: dataFile.dat
 ********************
-Inside the file called dataFile.dat includes the following data.
+Inside the file called dataFile.dat includes the following data below:
 
 Daniel Craig 2896893463 1983
 
